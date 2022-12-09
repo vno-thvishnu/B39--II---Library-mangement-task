@@ -1,0 +1,122 @@
+
+.reg{
+   
+   
+    overflow: hidden;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+}
+.reg-content{
+    background-color: #7eb88d;
+    height: 70vh;
+    width: 70vw;
+border-radius: 20px;
+margin: 10px;
+
+
+
+text-align: center;
+
+}
+.reg-content2{
+    background-color: #7eb88d;
+    height: 70vh;
+    width: 70vw;
+border-radius: 20px;
+margin: 10px;
+display: flex;
+justify-content: center;
+align-items: center;
+text-align: center;
+flex-direction: column;
+
+}
+
+
+
+.spanb{
+    background-color: #1a4345 !important;
+    color:white !important;
+}
+.span1{
+    background-color:#c54022 !important;
+    color:rgb(255, 255, 255) !important;
+text-align: center !important;
+align-items: center !important;
+display: flex !important;
+justify-content: center !important;
+}
+
+ .reg-overlay {
+    width: 75vw;
+    height: 75vh;
+    top: 15%;
+   
+   
+   
+    position: fixed;
+    display: flex;
+   
+
+    justify-content: center;
+    flex-direction: column;
+    align-items: center;
+}
+.bbtn{
+    align-items: center !important;
+    display: flex !important;
+    justify-content: center !important;
+}
+.bbtn1{
+    align-items: center !important;
+    display: flex !important;
+    justify-content: center !important;
+    background-color: #1a4345 !important;
+    color: white !important;
+}
+.empty{
+    overflow: hidden;
+
+}
+.emptybg{
+    width: 100vw;
+    height: 100vh;
+    background: rgba(255, 255, 255, 0.5);
+    position: fixed;
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+}
+
+
+.bgg{
+    background-color:#dadada;
+height: 280px;
+    border-radius: 20px;
+    color: rgb(0, 0, 0);
+    
+}
+.mrg{
+margin-top: 20px;
+}
+.hig{
+    
+
+    text-align: center;
+   
+    margin-top: 15%  !important;
+   
+   
+   
+   
+}
+.obj{
+   
+    object-fit: fill;
+   
+    height: 280px;
+    width: 250px;
+}
