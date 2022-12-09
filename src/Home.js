@@ -60,7 +60,7 @@ function Home({ setData, setLoading, setBook }) {
           "https://6391ba02b750c8d178cb5ec5.mockapi.io/books",
           values
         );
-        alert("succesfully created new register");
+        alert("succesfully added new book");
         formik.resetForm();
       } catch (error) {
         alert("error");

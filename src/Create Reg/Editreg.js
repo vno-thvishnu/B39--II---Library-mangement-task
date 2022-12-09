@@ -59,7 +59,7 @@ function Editreg({ data, setData, setLoading, setBook }) {
           `https://636405f97b209ece0f3e9710.mockapi.io/library/${update.id}`,
           values
         );
-        alert("succesfully created new register");
+        alert("succesfully edited register");
         // formik.resetForm()
       } catch (error) {
         alert("error");
